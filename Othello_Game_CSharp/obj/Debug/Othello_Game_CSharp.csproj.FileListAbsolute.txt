@@ -1,0 +1,8 @@
+C:\Users\hai84\Desktop\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.exe.config
+C:\Users\hai84\Desktop\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.exe
+C:\Users\hai84\Desktop\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.pdb
+C:\Users\hai84\Desktop\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.AssemblyReference.cache
+C:\Users\hai84\Desktop\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hai84\Desktop\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hai84\Desktop\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.exe
+C:\Users\hai84\Desktop\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.pdb
