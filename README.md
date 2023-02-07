@@ -1,4 +1,4 @@
-# Othello-in-CSharp
+# Othello-in-CSharp Console Game
 This project illustrates the Othello game - a board game invented in 1880.
 It is constructed in an OOP architecture, with a seperation between UI and logic.
 
